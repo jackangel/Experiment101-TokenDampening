@@ -164,6 +164,3 @@ is evidence of *what the model learns to dampen*, not yet of causality — the
 next step would be forcing the correlation's sign and checking whether the win
 follows.
 
-## License
-
-MIT
